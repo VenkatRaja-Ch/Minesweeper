@@ -1,0 +1,15 @@
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/bin/Debug/net5.0/Minesweeper_ZPRLE.deps.json
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/bin/Debug/net5.0/Minesweeper_ZPRLE.runtimeconfig.json
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/bin/Debug/net5.0/Minesweeper_ZPRLE.runtimeconfig.dev.json
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/bin/Debug/net5.0/Minesweeper_ZPRLE.dll
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/bin/Debug/net5.0/ref/Minesweeper_ZPRLE.dll
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/bin/Debug/net5.0/Minesweeper_ZPRLE.pdb
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/obj/Debug/net5.0/Minesweeper_ZPRLE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/obj/Debug/net5.0/Minesweeper_ZPRLE.AssemblyInfoInputs.cache
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/obj/Debug/net5.0/Minesweeper_ZPRLE.AssemblyInfo.cs
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/obj/Debug/net5.0/Minesweeper_ZPRLE.csproj.CoreCompileInputs.cache
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/obj/Debug/net5.0/Minesweeper_ZPRLE.dll
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/obj/Debug/net5.0/ref/Minesweeper_ZPRLE.dll
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/obj/Debug/net5.0/Minesweeper_ZPRLE.pdb
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/obj/Debug/net5.0/Minesweeper_ZPRLE.genruntimeconfig.cache
+/Users/venkatraja/Projects/Minesweeper_ZPRLE/Minesweeper_ZPRLE/obj/Debug/net5.0/Minesweeper_ZPRLE.csproj.AssemblyReference.cache
